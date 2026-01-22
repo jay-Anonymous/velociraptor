@@ -28,7 +28,7 @@
         "humanize-duration": "^3.31.0",
         "interactjs": "^1.10.23",
         "is-svg": "^4.4.0",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "moment": "^2.29.4",
         "moment-timezone": "0.5.43",
         "npm-watch": "^0.11.0",
